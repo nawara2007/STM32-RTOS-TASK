@@ -1,1 +1,1 @@
-# CAN-STM32-TX-RX
+# CAN-STM32-RTOS-CMSISV2- based on Free RTOS
